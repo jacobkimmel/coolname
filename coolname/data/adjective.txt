@@ -142,7 +142,6 @@ poetic
 pretty
 refined
 refreshing
-sexy
 smiling
 sociable
 spiffy
@@ -331,7 +330,6 @@ poised
 practical
 pragmatic
 proficient
-provocative
 qualified
 radical
 rational
@@ -371,7 +369,6 @@ deft
 dexterous
 energetic
 fast
-frisky
 hasty
 hypersonic
 meteoric
@@ -420,7 +417,6 @@ tunneling
 warping
 
 # Location and Dwelling
-aboriginal
 amphibian
 aquatic
 arboreal
@@ -443,7 +439,6 @@ fascinating
 flawless
 fortunate
 funky
-godlike
 glorious
 groovy
 honored
@@ -453,7 +448,6 @@ important
 impressive
 incredible
 invaluable
-kickass
 majestic
 magnificent
 marvellous
@@ -499,7 +493,6 @@ bizarre
 complex
 dancing
 dangerous
-demonic
 divergent
 economic
 electric
@@ -518,12 +511,10 @@ holistic
 hungry
 hypnotic
 hysterical
-illegal
 imperial
 imported
 impossible
 inescapable
-juicy
 liberal
 ludicrous
 lyrical
@@ -565,7 +556,6 @@ unnatural
 utopian
 vagabond
 vague
-vegan
 victorious
 vigilant
 voracious
